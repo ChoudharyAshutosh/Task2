@@ -1,5 +1,3 @@
-const { stdin } = require("process")
-
 var readLine=require("readline").createInterface({
     input: process.stdin,
     output: process.stdout
